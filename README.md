@@ -14,3 +14,13 @@ The following connections apply to and have been tested on a Uno, Nano and Pro M
 
 Arduino | nRF24L01
 ------- | --------
+GND | GND
+3.3V | VCC
+7\* | CE
+8\* | CSN
+13 | SCK
+11 | MOSI
+12 | MISO
+\- | IRQ
+
+\* The pins for CE and CSN are configurable and these are the default values.
