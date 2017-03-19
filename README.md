@@ -8,7 +8,7 @@ Only a subset of the full list of LLAP messages is required as many of them were
 - aXXBATTn.nn
 
 ## Connecting the radio
-![nRF24L01 pinouts](pinout_nrf24l01.jpg)
+![nRF24L01 pinouts](nrf24l01.jpg)
 
 The following connections apply to and have been tested on a Uno, Nano and Pro Mini 3.3V.
 
