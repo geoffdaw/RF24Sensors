@@ -7,4 +7,6 @@ Only a subset of the full list of LLAP messages is required as many of them were
 - aXXTEMPnn.n or aXXTEMP-n.n
 - aXXBATTn.nn
 
+## Connecting the radio
+![nRF24L01 pinouts](pinout_nrf24l01.jpg)
 
