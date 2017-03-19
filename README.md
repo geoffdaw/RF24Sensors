@@ -24,3 +24,9 @@ GND | GND
 \- | IRQ
 
 \* The pins for CE and CSN are configurable and these are the default values.
+
+## Compiling the sketches
+
+The sketches are compiled and loaded to an Arduino using the standard Arduino IDE. All the sketches require the Arduino RF24 library. This library is included with the IDE but is not enabled by default. To add the library use the Sketch --> Include Library and first check if RF24 is under the Contributed libraries. If not then select Manage Libraries... In the *Filter your search...* field enter RF24. Amongst those listed will be RF24 by TMRh20. Click More info, choose version 1.2.0 and Install.
+
+Various other libraries are required by different sketches and these will be listed in the accompanying document.
